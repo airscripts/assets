@@ -1,5 +1,5 @@
-# Emdees
-A collection of useful files for new repository's scaffolding.
+# Assets
+A collection of useful assets for your repositories.
 
 ## Contents
 - [Installation](#installation)
@@ -14,15 +14,14 @@ Follow the steps below to make use of Emdees.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Airscripts/emdees.git
+git clone https://github.com/Airscripts/assets.git
 ```
 
 ## Usage
-In order to use this project, just click the use as template in the repository's page.
+404
 
 ## Resources
-Here you can list some useful resources about this project:
-- [GitHub Page](https://ghio.airscript.it/emdees): project's GitHub page.
+404
 
 ## Contributing
 Contributions and suggestions about how to improve this project are welcome!
@@ -32,13 +31,13 @@ If you want to support my work you can do it following me, leaving a star, shari
 Choose what you find more suitable for you:  
 
 <a href="https://sponsor.airscript.it" target="blank">
-  <img src="./assets/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
 </a>&nbsp;
 <a href="https://kofi.airscript.it" target="blank">
-  <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
 </a>&nbsp;
 
 *As of my personal preference, I'do go with GitHub Sponsors.*
 
 ## License  
-This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/emdees/blob/main/LICENSE).
+This repository is licensed under [MIT License](https://github.com/Airscripts/assets/blob/main/LICENSE).
