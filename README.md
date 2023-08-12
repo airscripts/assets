@@ -1,5 +1,5 @@
 # Assets
-A collection of useful assets for your repositories.
+Collection of useful assets for your repositories.
 
 ## Contents
 - [Installation](#installation)
