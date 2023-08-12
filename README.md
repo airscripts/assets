@@ -40,4 +40,4 @@ Choose what you find more suitable for you:
 *As of my personal preference, I'do go with GitHub Sponsors.*
 
 ## License  
-This repository is licensed under [MIT License](https://github.com/Airscripts/assets/blob/main/LICENSE).
+This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/assets/blob/main/LICENSE).
